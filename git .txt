@@ -1,0 +1,11 @@
+для первычный настройка  "git config --global user.nmae "abdulfotih"
+$ git config --global user.email "ablazovabdulfotih@gmail.com"
+git config --global core.autocrlf true
+git config --list"
+
+for psd
+ git init
+ rm -r .git /for delet 
+git stutus / для проверка
+
+
