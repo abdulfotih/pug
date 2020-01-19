@@ -6,6 +6,8 @@ git config --list"
 for psd
  git init
  rm -r .git /for delet 
-git stutus / для проверка
+git status / для проверка
+gid add index.html /для добавке файла 
+git commit -m "first comit /любой"
 
 
