@@ -16,6 +16,7 @@ git checkout -- index.html \ для возврвашеня комит
 git reset HEAD index.html / для вернит файла из буфера
 git log --oneline / для окуратный
 gir revert HEAD --no-edit
+ssh-keygen
 
 
 
