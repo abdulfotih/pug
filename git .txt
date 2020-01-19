@@ -9,5 +9,14 @@ for psd
 git status / для проверка
 gid add index.html /для добавке файла 
 git commit -m "first comit /любой"
+git log /для проверка
+git add ./ для всего добв
+git diff /для посмотра добвленная измененя git diff --staged wq /для вернут 
+git checkout -- index.html \ для возврвашеня комит
+git reset HEAD index.html / для вернит файла из буфера
+git log --oneline / для окуратный
+gir revert HEAD --no-edit
+
+
 
 
