@@ -4,3 +4,6 @@ html ,body {
 	background: #ccc;
 
 }
+body {
+	font-family: bold
+}
